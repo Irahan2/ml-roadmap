@@ -85,6 +85,3 @@ Then visit `http://localhost:5000`.
 * [PyTorch](https://pytorch.org/) – Model backend
 
 ---
-
-
-👉 İstersen ben sana PowerShell’de bu güncellenmiş içeriği direkt dosyaya yazan komutu da verebilirim, ister misin?
