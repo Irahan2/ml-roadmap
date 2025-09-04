@@ -19,4 +19,4 @@ My goal is to make sure that even a **complete beginner** can follow the logic a
 
 ---
 
-👨‍💻 *This repo is continuously updated with new projects to help beginners learn ML in a practical way.*
+👨‍💻 *This repo is continuously updated with new projects to help  learners ML in a practical way.*
